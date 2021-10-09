@@ -1,0 +1,31 @@
+h1{
+    color: black;
+}
+
+
+.header{
+    background-color: pink;
+    display:flex;
+    justify-content: flex-end;
+}
+.img{
+    background-color: rgb(110, 0, 0);
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+.image2{
+    background-color: darkslategray;
+    display:flex;
+    justify-content: flex-end;
+}
+.game{
+    background-color: darkslategray;
+    display:flex;
+    justify-content: space-evenly;
+}
+.background{
+    background-color: darkslategray;
+}
+
